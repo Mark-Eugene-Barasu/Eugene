@@ -1,6 +1,10 @@
 hello world
 Steve Jobs
+<<<<<<< HEAD
 Tim Cook 
 Elon Musk
 
+=======
+Tim Cook
+>>>>>>> parent of ef134c1 (Update hello.txt)
 
